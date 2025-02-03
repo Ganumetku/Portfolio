@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Quiz Application",
+    "imageSrc": "projects/Quiz.png",
+    "description": "A fun and interactive quiz application built with React, allowing users to test their knowledge across various topics.",
+    "skills": ["React", "Node.js", "Express", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ganumetku/Quiz-Application"
+  }
+  ,
+  {
+    "title": "Airbnb Clone",
+    "imageSrc": "projects/airbnb.png",
+    "description": "A fully functional Airbnb clone built with modern web technologies.",
+    "skills": ["React","Express","Node js" ,"Tailwind CSS"],
+    "demo": "https://www.airbn-clone.com",
+    "source": "https://www.github.com/a"
+  },
+  {
+    "title": "Weather Application",
+    "imageSrc": "projects/weather.png",
+    "description": "A weather application that fetches real-time weather data using an API.",
+    "skills": ["React", "API", "JavaScript", "CSS"],
+    "demo": "https://www.weather-app.com",
+    "source": "https://github.com/Ganumetku/Weather-Application"
+  }
+]
