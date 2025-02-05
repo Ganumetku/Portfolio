@@ -12,8 +12,11 @@
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
+    "debug": "^4.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "uuid": "^11.0.5",
+    "vercel": "^41.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
