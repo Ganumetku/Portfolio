@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 import vercel from 'vite-plugin-vercel';
 
 export default defineConfig({
-  plugins: [react(),vercel()],
-  base: "/Portfolio",
+  plugins: [react()],
+  base: "/",
 });
